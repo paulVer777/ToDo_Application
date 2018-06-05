@@ -1,3 +1,19 @@
+ToDo_Application is a simple app that can help You remember things you planned to do. 
+You can add and delete tasks. 
+To start click on the link above.
+
+All data is saving in firebase database.
+Made using react,redux, and firebase.
+
+
+
+
+
+
+
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
