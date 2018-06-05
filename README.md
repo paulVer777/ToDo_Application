@@ -1,8 +1,9 @@
 ToDo_Application is a simple app that can help You remember things you planned to do. 
-You can add and delete tasks. 
-To start click on the link above.
+Main funcionalities are add and delete tasks. To start using application You have to log in to Your google acount.
+To launch application click on the link above.
 
 All data is saving in firebase database.
+
 Made using react,redux, and firebase.
 
 
