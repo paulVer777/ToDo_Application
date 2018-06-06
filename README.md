@@ -1,23 +1,20 @@
 <h1>ToDo_Application</h1>
-<hr>
+
 ToDo_Application is a simple app that can help users remember things they planned to do. 
 
 <h2>Funcionality</h2>
-<hr>
+
 Main funcionalities are add and delete tasks. 
 
 <h2>Running the app</h2>
-<hr>
+
 To start using application you have to log in to your google acount.
 To launch application click on the link above.
 
 <h2>Info</h2>
-<hr>
+
 All data is saving in firebase database.
 Made using react,redux, and firebase.
-
-
-
 
 
 
