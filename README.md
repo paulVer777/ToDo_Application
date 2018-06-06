@@ -1,9 +1,9 @@
 <h1>ToDo_Application</h1>
-
+<hr>
 ToDo_Application is a simple app that can help users remember things they planned to do. 
 
-##Funcionality
-
+<h2>##Funcionality</h2>
+<hr>
 Main funcionalities are add and delete tasks. 
 
 
