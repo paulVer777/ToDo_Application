@@ -1,5 +1,13 @@
+#ToDo_Application
+
 ToDo_Application is a simple app that can help users remember things they planned to do. 
-Main funcionalities are add and delete tasks. To start using application you have to log in to your google acount.
+
+##Funcionality
+
+Main funcionalities are add and delete tasks. 
+
+
+To start using application you have to log in to your google acount.
 To launch application click on the link above.
 
 All data is saving in firebase database.
